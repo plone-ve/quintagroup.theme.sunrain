@@ -1,5 +1,10 @@
 Changelog
 ---------
+
+7.2.6 (unreleased)
+
+- Updated the Diazo manifest file [macagua]
+
 7.2.5 January 26, 2016
 
 - Fix dropdownmenu [oles.slipchuk]
